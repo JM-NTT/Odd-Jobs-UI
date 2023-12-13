@@ -1,0 +1,7 @@
+{
+  "name": "odd-jobs-ui",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
